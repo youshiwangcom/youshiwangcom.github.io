@@ -1,0 +1,45 @@
+.skip-navigation {
+  position: fixed;
+  top: 10px;
+  left: 10px;
+  z-index: 1000;
+  background: rgba(255, 255, 255, 0.9);
+  padding: 5px;
+  border-radius: 4px;
+}
+
+.skip-navigation ul {
+  list-style: none;
+  display: flex;
+  gap: 15px;
+  margin: 0;
+}
+
+.skip-navigation li {
+  font-size: 14px;
+}
+
+.skip-navigation a {
+  color: #666;
+  text-decoration: none;
+  padding: 5px 10px;
+  border: 1px solid transparent;
+}
+
+.skip-navigation a:hover,
+.skip-navigation a:focus {
+  border-color: #333;
+  text-decoration: none;
+}
+
+/* Show navigation when focused or when at top of page */
+@media (max-width: 768px) {
+  .skip-navigation {
+    position: static;
+  }
+  
+  .skip-navigation ul {
+    flex-direction: column;
+    gap: 10px;
+  }
+}

@@ -1,0 +1,55 @@
+<svg width="300" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="portraitBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#E8F4FD;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#B8E6B8;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="faceGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FDBCB4;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#F4A261;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- 背景 -->
+  <rect width="100%" height="100%" fill="url(#portraitBg)"/>
+  
+  <!-- 身体轮廓 -->
+  <ellipse cx="150" cy="320" rx="80" ry="60" fill="#2A9D8F"/>
+  
+  <!-- 头部 -->
+  <ellipse cx="150" cy="180" rx="60" ry="70" fill="url(#faceGradient)"/>
+  
+  <!-- 头发 -->
+  <ellipse cx="150" cy="140" rx="65" ry="45" fill="#264653"/>
+  <path d="M85,140 Q150,120 215,140 Q200,160 150,165 Q100,160 85,140" fill="#264653"/>
+  
+  <!-- 眼睛 -->
+  <ellipse cx="130" cy="170" rx="8" ry="6" fill="white"/>
+  <ellipse cx="170" cy="170" rx="8" ry="6" fill="white"/>
+  <circle cx="130" cy="170" r="4" fill="#264653"/>
+  <circle cx="170" cy="170" r="4" fill="#264653"/>
+  <circle cx="131" cy="169" r="1.5" fill="white"/>
+  <circle cx="171" cy="169" r="1.5" fill="white"/>
+  
+  <!-- 鼻子 -->
+  <ellipse cx="150" cy="185" rx="3" ry="8" fill="#E76F51" opacity="0.3"/>
+  
+  <!-- 嘴巴 -->
+  <path d="M140,200 Q150,210 160,200" stroke="#E76F51" stroke-width="2" fill="none"/>
+  
+  <!-- 相机 -->
+  <rect x="120" y="280" width="60" height="40" rx="5" fill="#264653"/>
+  <rect x="125" y="285" width="50" height="30" rx="3" fill="#2A9D8F"/>
+  <circle cx="150" cy="300" r="12" fill="#E9C46A"/>
+  <circle cx="150" cy="300" r="8" fill="#264653"/>
+  <rect x="175" y="290" width="8" height="6" rx="2" fill="#E76F51"/>
+  
+  <!-- 装饰元素 -->
+  <circle cx="50" cy="80" r="15" fill="rgba(233,196,106,0.6)"/>
+  <circle cx="250" cy="120" r="20" fill="rgba(42,157,143,0.4)"/>
+  <circle cx="80" cy="350" r="12" fill="rgba(231,111,81,0.5)"/>
+  <circle cx="220" cy="320" r="18" fill="rgba(38,70,83,0.3)"/>
+  
+  <!-- 文字 -->
+  <text x="150" y="50" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#264653" text-anchor="middle">Photographe</text>
+</svg>
