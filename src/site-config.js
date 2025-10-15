@@ -1,6 +1,6 @@
 export default{
   "site": {
-    "title": "Loïc 2",
+    "title": "我的页面",
     "subtitle": "Dans les tuyaux du Centre Pompidou",
     "description": "Extraits du livre _Dans les tuyaux du Centre Pompidou_ aux éditions du Centre Pompidou (2021)",
     "interview": "Entretien pour le magazine du Centre Pompidou ici",
