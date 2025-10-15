@@ -1,55 +1,57 @@
 export default{
   "site": {
     "title": "我的页面",
-    "subtitle": "Dans les tuyaux du Centre Pompidou",
-    "description": "Extraits du livre _Dans les tuyaux du Centre Pompidou_ aux éditions du Centre Pompidou (2021)",
+    "subtitle": "子标题你的专业/项目",
+    "description": "简介描述",
     "interview": "Entretien pour le magazine du Centre Pompidou ici",
     "logo": {
       "src": "/images/logo.svg",
-      "alt": "Loïc Froissart Logo",
+      "alt": "Logo描述",
       "width": 80,
       "height": 80
     },
     "welcomeImages": [
       {
+        // 远程地址
         "src": "https://www.loicfroissart.com/data/images/loicfroissart_danslestuyaux01.jpg",
-        "alt": "Centre Pompidou - Image principale",
+        "alt": "图片描述信息",
         "width": 1600,
       },
       {
+        // 本地地址需要文件
         "src": "/images/welcome/secondary-image.svg",
-        "alt": "Travaux artistiques",
+        "alt": "图片描述信息",
         "width": 400,
         "height": 300
       }
     ],
     "contact": {
-      "name": "Loic Froissart",
+      "name": "联系人名称",
       "email": "loicfroissart@hotmail.com",
-      "phone": "06 12 01 46 16"
+      "phone": "18xxxxxxxx"
     },
     "about": {
-      "title": "À propos de moi",
+      "title": "关于我",
       "content": [
-        "Je suis un photographe et artiste visuel passionné par l'exploration des espaces urbains et culturels. Mon travail se concentre sur la capture de moments authentiques et la révélation de la beauté cachée dans l'ordinaire.",
-        "Diplômé de l'École Nationale Supérieure de la Photographie d'Arles, j'ai développé une approche documentaire qui mélange observation sociale et recherche esthétique. Mes projets m'ont mené dans des lieux emblématiques comme le Centre Pompidou, où j'ai pu explorer les coulisses de cette institution culturelle majeure.",
-        "Mon travail a été publié dans diverses publications et exposé dans plusieurs galeries. Je m'intéresse particulièrement aux interactions entre l'architecture, les gens et la lumière naturelle."
+        "我的介绍内容1",
+        "我的介绍内容2",
+        "我的介绍内容3"
       ],
       "skills": [
-        "Photographie documentaire",
-        "Photojournalisme",
-        "Édition et post-production",
-        "Direction artistique",
-        "Projets éditoriaux"
+        "技能1",
+        "技能2",
+        "技能3",
+        "技能4",
+        "技能5"
       ],
       "experience": [
         {
-          "title": "Photographe freelance",
-          "period": "2018 - Présent",
+          "title": "经历一",
+          "period": "2018 - 至今",
           "description": "Collaborations avec magazines, institutions culturelles et projets personnels"
         },
         {
-          "title": "Assistant photographe",
+          "title": "经历二",
           "period": "2016 - 2018",
           "description": "Travail avec des photographes reconnus sur des projets commerciaux et artistiques"
         }
@@ -77,9 +79,9 @@ export default{
   "projects": [
     { 
       "id": "centre-pompidou", 
-      "title": "Dans les tuyaux du Centre Pompidou", 
+      "title": "项目一", 
       "featured": false,
-      "description": "Extraits du livre _Dans les tuyaux du Centre Pompidou_ aux éditions du Centre Pompidou (2021). Un regard unique sur les coulisses de cette institution culturelle emblématique.",
+      "description": "项目描述可以自己写",
       "year": "2021",
       "type": "Book",
       "images": [
@@ -105,8 +107,8 @@ export default{
     },
     { 
       "id": "mairie-paris", 
-      "title": "Mairie de Paris",
-      "description": "Projet réalisé pour la Mairie de Paris.",
+      "title": "项目二",
+      "description": "项目描述",
       "type": "Institutional"
     },
     { 
