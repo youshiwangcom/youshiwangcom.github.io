@@ -59,6 +59,7 @@
 }
 
 .contact-info {
+  text-align: center;
   font-size: 0.95rem;
   line-height: 1.4;
 }
@@ -78,11 +79,11 @@
   .site-title {
     font-size: 2rem;
   }
-  
+
   .featured-title {
     font-size: 1.3rem;
   }
-  
+
   .site-header {
     margin-bottom: 30px;
     padding-bottom: 20px;

@@ -75,7 +75,7 @@
   border-radius: 4px;
   font-size: 0.95rem;
   color: #555;
-  border-left: 3px solid #4ECDC4;
+  border-left: 3px solid #4ecdc4;
 }
 
 /* Experience Section */
@@ -130,23 +130,23 @@
   .about-title {
     font-size: 2rem;
   }
-  
+
   .about-details {
     grid-template-columns: 1fr;
     gap: 30px;
   }
-  
+
   .about-paragraph {
     font-size: 1rem;
-    text-align: left;
+    text-align: center;
   }
-  
+
   .experience-header {
     flex-direction: column;
     align-items: flex-start;
     gap: 5px;
   }
-  
+
   .experience-period {
     white-space: normal;
   }
@@ -156,15 +156,15 @@
   .about-me {
     padding: 0 10px;
   }
-  
+
   .about-title {
     font-size: 1.8rem;
   }
-  
+
   .about-content {
     gap: 30px;
   }
-  
+
   .section-title {
     font-size: 1.2rem;
   }

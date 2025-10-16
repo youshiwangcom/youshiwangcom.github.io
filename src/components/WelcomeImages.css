@@ -3,10 +3,8 @@
 }
 
 .welcome-images-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 30px;
   margin-bottom: 30px;
+  width: 100%;
 }
 
 .welcome-image-item {
@@ -19,7 +17,6 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  
 }
 
 .welcome-image-item:hover {
@@ -101,12 +98,12 @@
     grid-template-columns: 1fr;
     gap: 20px;
   }
-  
+
   .welcome-lightbox-close {
     top: -35px;
     font-size: 25px;
   }
-  
+
   .welcome-lightbox-info {
     bottom: -40px;
   }
@@ -116,7 +113,7 @@
   .welcome-images {
     margin: 30px 0;
   }
-  
+
   .welcome-images-grid {
     gap: 15px;
   }

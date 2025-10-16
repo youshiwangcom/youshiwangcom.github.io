@@ -1,11 +1,14 @@
 .main-content {
   margin-top: 0;
+  text-align: center;
+  font-family: europa;
 }
 
 .about-section {
   margin-bottom: 25px;
   padding-bottom: 20px;
   border-bottom: 1px solid #eee;
+  text-align: center;
 }
 
 .about-list {
@@ -35,6 +38,7 @@
 
 .projects-section {
   margin-bottom: 20px;
+  text-align: center;
 }
 
 .projects-title {
@@ -75,18 +79,16 @@
   font-weight: 500;
 }
 
-
-
 /* Responsive design */
 @media (max-width: 768px) {
   .projects-title {
     font-size: 1.2rem;
   }
-  
+
   .projects-list {
     gap: 6px;
   }
-  
+
   .projects-list li {
     font-size: 0.95rem;
   }
