@@ -17,13 +17,6 @@ export default{
         "alt": "图片描述信息",
         "width": 1600,
       },
-      {
-        // 本地地址需要文件
-        "src": "/images/welcome/secondary-image.svg",
-        "alt": "图片描述信息",
-        "width": 400,
-        "height": 300
-      }
     ],
     "contact": {
       "name": "联系人名称",
