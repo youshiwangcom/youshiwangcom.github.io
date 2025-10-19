@@ -1,6 +1,6 @@
 export default{
   "site": {
-    "title": "我的页面",
+    "title": "yoshiwang",
     "subtitle": "子标题你的专业/项目",
     "description": "简介描述",
     "interview": "Entretien pour le magazine du Centre Pompidou ici",
@@ -24,7 +24,7 @@ export default{
       "phone": "18xxxxxxxx"
     },
     "about": {
-      "title": "关于我",
+      "title": "xxxx关于我",
       "content": [
         "我的介绍内容1",
         "我的介绍内容2",
