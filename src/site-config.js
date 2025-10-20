@@ -1,7 +1,7 @@
 export default{
   "site": {
     "title": "yoshiwang",
-    "subtitle": "子标题你的专业/项目",
+    "subtitle": "portfolio作品集",
     "description": "简介描述",
     "interview": "Entretien pour le magazine du Centre Pompidou ici",
     "logo": {
