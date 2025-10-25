@@ -7,8 +7,8 @@ export default{
     "logo": {
       "src": "/images/36367.jpg",
       "alt": "Logo描述",
-      "width": 80,
-      "height": 80
+      "width": 90,
+      "height": 90
     },
     "welcomeImages": [
       {
