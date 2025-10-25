@@ -7,15 +7,15 @@ export default{
     "logo": {
       "src": "/images/36367.jpg",
       "alt": "Logo描述",
-      "width": 90,
-      "height": 90
+      "width": 80,
+      "height": 80
     },
     "welcomeImages": [
       {
         // 远程地址
         "src": "/images/welcome/3334.jpg",
         "alt": "图片描述信息",
-        "width": 1600,
+        "width": 1000,
       },
     ],
     "contact": {
