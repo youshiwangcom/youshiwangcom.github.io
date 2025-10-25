@@ -102,7 +102,8 @@ export default{
     { 
       "id": "mairie-paris", 
       "title": "项目二",
-      "description": "项目描述",
+      "description": "Every time I introduce myself to others, I always use a piece of paper to write down my education, work location, and working hours—words and numbers. I feel this is far from enough for others to understand me. So I thought of drawing a book to introduce myself. My personality, my loves, hates, and my uniqueness will all be recorded in it, a unique life resume.每次向别人介绍自己总是用一张纸写着我的学历、工作地点、工作时间这些
+文字和数字 , 我认为这远远不足以让别人了解我 , 于是我想到要画一本介绍自己的书 , 我的性格 , 我的独特性都记录在里面 , 是一份独一无二的人生履历. ",
       "type": "Institutional"
     },
     { 
