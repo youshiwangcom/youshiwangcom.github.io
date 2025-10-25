@@ -19,9 +19,9 @@ export default{
       },
     ],
     "contact": {
-      "name": "联系人名称",
-      "email": "loicfroissart@hotmail.com",
-      "phone": "18xxxxxxxx"
+      "name": "Yoshi Wang 王晓汀",
+      "email": "165746826@qq.com",
+      "phone": "18810198323"
     },
     "about": {
       "title": "xxxx关于我",
