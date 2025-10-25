@@ -1,6 +1,6 @@
 export default{
   "site": {
-    "title": "yoshiwang",
+    "title": "Yoshi Wang",
     "subtitle": "portfolio作品集",
     "description": "简介描述",
     "interview": "Entretien pour le magazine du Centre Pompidou ici",
@@ -19,7 +19,7 @@ export default{
       },
     ],
     "contact": {
-      "name": "Yoshi Wang 王晓汀",
+      "name": "王晓汀",
       "email": "165746826@qq.com",
       "phone": "18810198323"
     },
