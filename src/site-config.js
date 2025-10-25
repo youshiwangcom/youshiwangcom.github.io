@@ -13,7 +13,7 @@ export default{
     "welcomeImages": [
       {
         // 远程地址
-        "src": "public/images/welcome/3334.jpg",
+        "src": "/images/welcome/3334.jpg",
         "alt": "图片描述信息",
         "width": 1600,
       },
