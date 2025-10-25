@@ -15,7 +15,7 @@ export default{
         // 远程地址
         "src": "/images/welcome/3334.jpg",
         "alt": "图片描述信息",
-        "width": 1000,
+        "width": 1200,
       },
     ],
     "contact": {
@@ -24,7 +24,7 @@ export default{
       "phone": "18810198323"
     },
     "about": {
-      "title": "xxxx关于我",
+      "title": "About me 关于我",
       "content": [
         "我的介绍内容1",
         "我的介绍内容2",
