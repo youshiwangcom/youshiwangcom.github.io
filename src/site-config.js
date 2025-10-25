@@ -5,7 +5,7 @@ export default{
     "description": "简介描述",
     "interview": "Entretien pour le magazine du Centre Pompidou ici",
     "logo": {
-      "src": "/images/3667.jpg",
+      "src": "/images/36367.jpg",
       "alt": "Logo描述",
       "width": 80,
       "height": 80
